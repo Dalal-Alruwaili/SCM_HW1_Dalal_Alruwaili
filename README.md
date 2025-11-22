@@ -1,1 +1,1 @@
-# SCM_HW1_Dalal_Alruwaili
+This repository is created for SWE442 Homework 1 to practice version control, branching, and change management using GitHub.
